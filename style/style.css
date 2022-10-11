@@ -61,6 +61,6 @@ a:active {
   background-color: transparent;
   text-decoration: underline;
 }
-#text-cart {
-  font-family: "Montserrat", sans-serif;
-}
+.text-cart {
+  font-family: "PT Sans", sans-serif;
+ }
