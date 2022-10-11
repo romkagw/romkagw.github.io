@@ -1,17 +1,14 @@
-
 .header_inner {
   display: flex;
   position: relative;
   justify-content: center;
-  
 }
 .card {
-  width: 800px;
-  height: 100px;
+  width: 600px;
   position: absolute;
 }
 .card-header {
-  padding: 40px;
+  padding: 20px;
   background: rgb(42, 40, 49);
   transform: translateY(100px);
   position: relative;
@@ -21,7 +18,7 @@
   font-family: "PT Sans", sans-serif;
   text-align: center;
   color: rgb(250, 249, 249);
-  height: 350px;
+  height: 280px;
 }
 
 .card:hover .card-header {
@@ -31,8 +28,8 @@
 
 .card-header img {
   border-radius: 50%;
-  width: 200px;
-  box-shadow: 0 0 200px rgba(235, 214, 214, 0.9);
+  width: 170px;
+  box-shadow: 0 0 150px rgba(235, 214, 214, 0.9);
   padding: 7px;
 }
 
@@ -63,4 +60,7 @@ a:active {
   color: rgb(0, 255, 213);
   background-color: transparent;
   text-decoration: underline;
+}
+#text-cart {
+  font-family: "Comfortaa", cursive;
 }
