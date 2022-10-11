@@ -18,7 +18,7 @@
   font-family: "PT Sans", sans-serif;
   text-align: center;
   color: rgb(250, 249, 249);
-  height: 280px;
+  height: 290px;
 }
 
 .card:hover .card-header {
@@ -62,5 +62,5 @@ a:active {
   text-decoration: underline;
 }
 #text-cart {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
